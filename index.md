@@ -1,2 +1,2 @@
 # This is a header test
-![Image of Dinocat](https://octodex.github.com/images/dinocat.png)
+![Image of Dinotocat](https://octodex.github.com/images/dinotocat.png)
